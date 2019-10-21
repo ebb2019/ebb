@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://47.100.2.141:3306/ebb?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =2wsx@WSX
+devMode = true
